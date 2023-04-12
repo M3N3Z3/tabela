@@ -1,0 +1,8 @@
+table{
+    width: 500px;
+}
+
+th, td {
+    border: 1px solid;
+}
+table{background-color: aqua;}
